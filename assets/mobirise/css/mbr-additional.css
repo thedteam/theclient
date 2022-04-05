@@ -1460,7 +1460,7 @@ a {
   }
 }
 .cid-sMnYndJ3Lv {
-  background-image: url("../../../assets/images/mbr-3-1920x1440.jpeg");
+  background-image: url("../../../assets/images/mbr-3-1920x1440.png");
 }
 .cid-sMnYndJ3Lv .mbr-section-title {
   text-align: center;
@@ -1588,3 +1588,15 @@ a {
 .cid-sMmRNS26UH .media-container-row .mbr-text {
   text-align: center;
 }
+
+/*----------------------------
+    Disable Text Selection
+----------------------------*/
+.disable {
+  -webkit-touch-callout: none;
+  -webkit-user-select:none;
+  -khtml-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+  }
