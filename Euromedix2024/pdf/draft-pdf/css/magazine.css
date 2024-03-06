@@ -357,6 +357,17 @@ body{
 	background-size:88px 22px;
 }
 
+.pdf{
+	position:absolute;
+	z-index:1;
+	width:96px;
+	height:96px;
+	top:30px;
+	right:10px;
+	background-image:url(../pics/pdf.png);
+	
+}
+
 .zoom-icon-in{
 	background-position:0 0;
 	cursor: pointer;
